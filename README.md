@@ -136,17 +136,17 @@ Received personalized recommendations for increasing interview and hiring potent
 Learned how AI can automate job discovery, profile evaluation, and career planning.
 Documented generated outputs, opportunity analysis, screenshots, and key takeaways.
 
-Key Learnings
+Day 14 – Job Red Flag Detector
 
-* Better prompts lead to better outputs.
-* Specific instructions improve response quality.
-* Context helps AI understand the task more accurately.
-* Structured prompts create more useful results.
-* Role-Based Prompting generates more focused and relevant responses.
-* Different personas provide different perspectives on the same problem.
-* Iteration is key — refining prompts leads to higher quality outputs.
-* Small changes in prompts can significantly improve AI output quality.
-* Context Engineering makes AI responses more personalized and practical.
-* The quality of AI output depends heavily on the quality of context provided.
-* ATS-friendly formatting is critical for resume shortlisting.
-* Simple, keyword-rich resumes perform better than visually complex ones.
+* Explored how AI can evaluate job opportunities before applying.
+* Used a Job Red Flag Detector prompt with a Job Description (JD) and company information.
+* Generated a detailed risk analysis report for a target job opportunity.
+* Analyzed the Overall Risk Score to assess the quality and reliability of the job posting.
+* Identified potential Red Flags such as vague responsibilities, unrealistic expectations, lack of salary transparency, and possible work-life balance concerns.
+* Reviewed Positive Signals, including clear role requirements, growth opportunities, and transparent hiring practices.
+* Examined the Risk Breakdown across compensation, company stability, culture, growth potential, and hiring process.
+* Evaluated the Final Verdict to determine whether the opportunity was worth pursuing.
+* Generated AI-powered interview questions based on the selected role and company.
+* Learned how AI can assist in job evaluation, risk assessment, and informed career decision-making.
+* Documented screenshots, generated reports, findings, and key takeaways.
+
